@@ -8,7 +8,7 @@ namespace GitCheckpoint1
 {
     internal class CheckTest
     {
-        public void TestMessage(string test)
+        public static void TestMessage(string test)
         {
             Console.WriteLine(test);
         }
